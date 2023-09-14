@@ -1,0 +1,75 @@
+html css php
+
+reqs:
+vscode <- editor
+xampp <- php, webserver (apache/nginx), mysql
+x(a)pache(m)ysql(p)hp(p)erl 
+
+iis (80)
+apache (80)<- error? <------- httpd.conf
+
+default web directory
+iis = c\inetpub
+apache = c:\xampp\htdocs
+------------------------------------------------------
+
+PHP
+1. PHP in HTML 
+2. External PHP, call in HTML
+3. PHP API
+
+REST API (PHP)						front-end
+endpoints						js frameworks (angular/vue/react)
+[POST]http://www.ppsta.com/employee/add <-----------	WEB APP
+
+get = data in form (appended in url), query string/query parameters
+post = submit data as part of request token
+
+---------------------------------------
+
+CSS
+styles = color, layout, position, transitions, animation
+
+common ways to use css
+1. embedded css in <head>
+
+selector{
+	style:value;
+	style:value;
+}
+
+child selector = *usually 2nd level
+
+
+h1 {
+	color:red;
+	font-size:xx-large;
+}
+
+h1,h2 {
+	color: green;
+}
+
+
+
+
+
+2. inline css in <tags>
+
+"messy"
+
+
+
+3. external css (separate css file)
+
+-------------------------------------------------
+
+bootstrap
+.css
+.js
+
+
+
+
+
+
